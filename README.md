@@ -1,2 +1,2 @@
 # practice-4
-<img src="asset/image/resul1.JPG">
+<img src="asset/image/resul1.png">
